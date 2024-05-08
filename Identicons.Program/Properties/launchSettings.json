@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Identicons.Program": {
+      "commandName": "Project",
+      "commandLineArgs": "--string test --output out"
+    }
+  }
+}
